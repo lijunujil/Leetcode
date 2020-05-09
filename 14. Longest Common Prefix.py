@@ -32,7 +32,7 @@ class Solution:
 
 if __name__ == "__main__":
     a = Solution()
-    print(a.longestCommonPrefix(["c","acc","ccc"]))
+    print(a.longestCommonPrefix(["ca","a"]))
 
     # strs = ["leetcode", "leet", "lee", "le", "ji"]
     # listLength = len(strs)
